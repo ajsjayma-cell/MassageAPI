@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MassageAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f898375dc3c7cd6df1fc8fe372541553aa1294a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MassageAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MassageAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

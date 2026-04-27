@@ -39,3 +39,4 @@ C:\Users\hi\MassageAPI\obj\Debug\net9.0\refint\MassageAPI.dll
 C:\Users\hi\MassageAPI\obj\Debug\net9.0\MassageAPI.pdb
 C:\Users\hi\MassageAPI\obj\Debug\net9.0\MassageAPI.genruntimeconfig.cache
 C:\Users\hi\MassageAPI\obj\Debug\net9.0\ref\MassageAPI.dll
+C:\Users\hi\MassageAPI\obj\Debug\net9.0\MassageAPI.sourcelink.json
